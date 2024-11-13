@@ -2,7 +2,7 @@
 Emplear los modelos de aprendizaje estadístico no supervisado para solucionar problemas que requieran la predicción o clasificación de los datos
 
 La actividad consiste en:
-**Paso 1.** Descargue en el siguiente enlace, la Base de Datos -BD-(dynamic_pricing.csv), acerca de una empresa de viajes compartidos que desean implementar una estrategia de precios dinámica para optimizar las tarifas en función de las condiciones del mercado en tiempo real. Actualmente, la empresa solo utiliza la duración del viaje para decidir las tarifas. La empresa pretende aprovechar técnicas basadas en estadística para analizar datos históricos: https://www.kaggle.com/datasets/arashnic/dynamic-pricingdataset?select=dynamic_pricing.csv
+**Paso 1.** Descargue en el siguiente enlace, la Base de Datos -BD-(dynamic_pricing.csv), acerca de una empresa de viajes compartidos que desean implementar una estrategia de precios dinámica para optimizar las tarifas en función de las condiciones del mercado en tiempo real. Actualmente, la empresa solo utiliza la duración del viaje para decidir las tarifas. La empresa pretende aprovechar técnicas basadas en estadística para analizar datos históricos: https://www.kaggle.com/datasets/arashnic/dynamic-pricing-dataset?select=dynamic_pricing.csv
 Se requiere implementar modelos de aprendizaje estadístico no supervisado que permitan reducir la dimensionalidad, eliminar la correlación, extraer características relevantes y formar grupos de viajeros de acuerdo con el número de pasajeros, calificación, duración del viaje y costo histórico. 
 Para dar solución a esta problemática usted debe realizar las siguientes actividades:
 
