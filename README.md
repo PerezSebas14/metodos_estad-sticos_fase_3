@@ -25,7 +25,7 @@ Realice las siguientes actividades, interpretando cada uno de los resultados, re
 - Calcular las medidas de resumen de cada clúster y detectar diferencias entre cada segmento, hacer la interpretación de los resultados.
 - Extraer conclusiones del K-Means.
 
-4) Agrupamiento Jerárquico
+3) Agrupamiento Jerárquico
 - Implementar el método de clúster Hierarchical clustering.
 - Realizar el dendongrama e interpretar.
 - Calcular el tamaño del clúster mediante una tabla de frecuencias, analice los pesos porcentuales.
